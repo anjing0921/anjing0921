@@ -1,4 +1,4 @@
-## Hi this is Anna Du 👋
+## Hi this is Yuan Du 👋
 
 I'm a software engineer with experience in web development. I enjoy building applications that solve real-world problems and using data to gain insights and drive decision-making.
 
