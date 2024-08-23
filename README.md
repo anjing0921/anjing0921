@@ -14,31 +14,4 @@ Testing: React Testing Library Jest Cypress Pytest
 
 Other: Git GitHub Jira Postman CI/CD AWS S3 Heroku Firebase
 
-My Current Tech and Tools
-React
-React	MongoDB
-MongoDB	ExpressJS
-Express	NodeJS
-Node	JavaScript
-JavaScript	Redux
-Redux	Next.js
-NextJS	Gatsby
-Gatsby	GraphQL
-GraphQL
-Tailwind CSS
-Tailwind	Sass
-Sass	Styled-Components
-Styled
-Components	HTML - HTML5
-HTML	CSS
-CSS	Git
-Git	Github
-GitHub	VS Code
-VS Code	
 
-
-
-Learning More About
-SQL
-SQL	PostgreSQL
-PostgreSQL
